@@ -1,20 +1,30 @@
 <div align="center">
-  <h1>
-    <span style="background-color:#800020; color:#FFF8E7;">
-      Hey Everyone! 👋 I'm Umang Yadav
-    </span>
-  </h1>
-</div>
 
-# Hey Everyone! 👋 I'm Umang Yadav
+<table>
+<tr>
+<td align="center" bgcolor="#800020">
 
-### Computer Science & Artificial Intelligence Student | Aspiring Software Engineer
+# <span style="color:#FFF8E7">Hey Everyone! 👋 I'm Umang Yadav</span>
 
-Building full-stack applications, exploring AI, and creating thoughtful digital experiences.
+### <span style="color:#87CEEB">Computer Science & Artificial Intelligence Student</span>
 
-[![GitHub](https://img.shields.io/badge/GitHub-yadavumang247--prog-181717?style=for-the-badge&logo=github)](https://github.com/yadavumang247-prog)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/umang-yadav)
-[![Email](https://img.shields.io/badge/Email-Contact-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadavumang247@gmail.com)
+<span style="color:#FFF8E7">Aspiring Software Engineer | Full-Stack Developer | Graphic Designer</span>
+
+<br/>
+
+<span style="color:#FFF8E7">Building full-stack applications, exploring AI, and creating thoughtful digital experiences.</span>
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-yadavumang247--prog-F8E8D0?style=for-the-badge&logo=github&logoColor=800020)](https://github.com/yadavumang247-prog)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-87CEEB?style=for-the-badge&logo=linkedin&logoColor=800020)](https://linkedin.com/in/umang-yadav)
+
+[![Email](https://img.shields.io/badge/Email-Contact-F8E8D0?style=for-the-badge&logo=gmail&logoColor=800020)](mailto:yadavumang247@gmail.com)
+
+</td>
+</tr>
+</table>
 
 </div>
 
