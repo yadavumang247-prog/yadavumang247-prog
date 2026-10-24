@@ -1,17 +1,17 @@
 <div align="center">
-<table width="100%">
+<table width="100%" cellpadding="15" cellspacing="0">
 <tr>
-<td align="center" bgcolor="#D98B9C">
+<td align="center" bgcolor="#C4A484">
 
-# Hey Everyone! 👋 I'm Umang Yadav
+<h1>Hey Everyone! 👋 I'm Umang Yadav</h1>
 
-**Computer Science & AI Student | Full-Stack Developer**
+<p><b>Computer Science & AI Student | Full-Stack Developer</b></p>
 
-Building web applications and creative digital experiences.
+<p>Building web applications and creative digital experiences.</p>
 
-[GitHub](https://github.com/yadavumang247-prog) •
-[LinkedIn](https://linkedin.com/in/umang-yadav) •
-[Email](mailto:yadavumang247@gmail.com)
+<a href="https://github.com/yadavumang247-prog">GitHub</a> •
+<a href="https://linkedin.com/in/umang-yadav">LinkedIn</a> •
+<a href="mailto:yadavumang247@gmail.com">Email</a>
 
 </td>
 </tr>
