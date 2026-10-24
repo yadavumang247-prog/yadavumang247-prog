@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/profile.jpeg" alt="Umang Yadav" width="190" style="border-radius: 18px;" />
-
 # Hey Everyone! 👋 I'm Umang Yadav
 
 ### Computer Science & Artificial Intelligence Student | Aspiring Software Engineer
@@ -75,53 +73,6 @@ currently_building:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-
-## 🚀 Featured Projects
-
-### 🔖 [Flowbit](https://github.com/Uptoskillssyncaura/Syncaura-main)
-A full-stack bookmark management application developed as part of my UptoSkills internship.
-
-- Built bookmark creation, reading, updating, and deletion workflows.
-- Worked on authentication, REST API integration, database management, and responsive UI.
-- **Tech:** React.js, Node.js, Express.js, MongoDB, REST APIs
-
-### 🎓 Placera — Internship & Placement Portal
-A web application designed to support internship opportunities, placement activities, and student-employer interactions.
-
-- Implemented authentication, application workflows, and role-based functionality.
-- Connected frontend and backend services through REST APIs.
-- **Tech:** React.js, Node.js, Express.js, MongoDB
-
-## 💼 Experience
-
-**Web Development Intern — UptoSkills**  
-*June 2026 – September 2026*
-
-- Completed a three-month internship focused on web and full-stack application development.
-- Collaborated with a team on Flowbit, a bookmark management application.
-
-**Placement Cell Coordinator — JECRC Foundation**  
-*September 2024 – September 2026*
-
-- Coordinated recruitment drives and communication between HR representatives and students.
-- Designed promotional graphics for placement and training activities.
-
-## 🏆 Achievements & Certifications
-
-- Adobe University Hackathon — Cleared Round 1 (2026)
-- Copado AI Salesforce DevOps Certification (2026)
-- IITM Advanced Certificate in Programming and Application Development (2026)
-- JECRC MUN, Zero Hour Summit 5.0 — Runner-up (2025)
-- Thinkathon Technical Quiz Competition — 5th rank (2025)
-- Smart India Hackathon 2025 — Rockfall Prediction System
-- J-Techtrix Hackathon — Medicine Reminder Application (2025)
-
-## 📚 Currently Learning
-
-- Data Structures & Algorithms
-- Operating Systems and DBMS
-- Advanced full-stack development
-- AI/ML concepts and practical applications
 
 ## 🤝 Let's Connect
 
