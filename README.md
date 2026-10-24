@@ -1,13 +1,9 @@
 <div align="center">
-<table width="100%">
-<tr>
-<td align="center" bgcolor="#87CEEB">
-
-# Hey Everyone! 👋 I am Umang Yadav
-
-</td>
-</tr>
-</table>
+  <h1>
+    <img src="https://placehold.co/900x100/87CEEB/17324D?text=Hey+Everyone!+%F0%9F%91%8B+I+am+Umang+Yadav&font=roboto"
+         alt="Hey Everyone! I am Umang Yadav"
+         width="100%">
+  </h1>
 </div>
 
 ## 🧑‍💻 A Little Bit About Me
