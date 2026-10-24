@@ -1,34 +1,22 @@
 <div align="center">
-
-<table>
+<table width="100%">
 <tr>
-<td align="center" bgcolor="#800020">
+<td align="center" bgcolor="#D98B9C">
 
-# <span style="color:#FFF8E7">Hey Everyone! 👋 I'm Umang Yadav</span>
+# Hey Everyone! 👋 I'm Umang Yadav
 
-### <span style="color:#87CEEB">Computer Science & Artificial Intelligence Student</span>
+**Computer Science & AI Student | Full-Stack Developer**
 
-<span style="color:#FFF8E7">Aspiring Software Engineer | Full-Stack Developer | Graphic Designer</span>
+Building web applications and creative digital experiences.
 
-<br/>
-
-<span style="color:#FFF8E7">Building full-stack applications, exploring AI, and creating thoughtful digital experiences.</span>
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-yadavumang247--prog-F8E8D0?style=for-the-badge&logo=github&logoColor=800020)](https://github.com/yadavumang247-prog)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-87CEEB?style=for-the-badge&logo=linkedin&logoColor=800020)](https://linkedin.com/in/umang-yadav)
-
-[![Email](https://img.shields.io/badge/Email-Contact-F8E8D0?style=for-the-badge&logo=gmail&logoColor=800020)](mailto:yadavumang247@gmail.com)
+[GitHub](https://github.com/yadavumang247-prog) •
+[LinkedIn](https://linkedin.com/in/umang-yadav) •
+[Email](mailto:yadavumang247@gmail.com)
 
 </td>
 </tr>
 </table>
-
 </div>
-
----
 
 ## 🧑‍💻 A Little Bit About Me
 
