@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>
-    <img src="https://placehold.co/1000x180/F5E6CC/6F4E377?text=Hey+Everyone!+%E2%9C%A8+I+am+Umang+Yadav&font=montserrat"
-         alt="Hey Everyone!! I am Umang Yadav"
-         width="100%">
-  </h1>
+  <img
+    src="https://placehold.co/1200x220/4B2E24/F5E6CC?text=Heyyyy!!!+%F0%9F%91%8B+I+am+Umang...&font=montserrat"
+    alt="Heyyyy!!! I am Umang..."
+    width="100%"
+  />
 </div>
 
 ## 🧑‍💻 A Little Bit About Me
